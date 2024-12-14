@@ -1,1 +1,1 @@
-This project outputs an estimated cost of insurance based on varibles input. This is not financial advise nor does the value presented accuratley display what insurance will cost you. 
+This project provides an estimated insurance cost based on the input variables. This is not financial advice, and the presented value may not accurately reflect the actual cost of insurance.
